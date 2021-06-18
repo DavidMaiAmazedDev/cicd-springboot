@@ -15,7 +15,7 @@ public class DemoController {
     @GetMapping("/demoData")
     public User getAllEmployees() {
 
-        return new User("duy",70);
+        return new User("duymai",85);
     }
 }
 
